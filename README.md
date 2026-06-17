@@ -2,9 +2,7 @@
   ╔══════════════════════════════════════════════════════════════════╗
   ║  GitHub Profile README — Kaique Augusto Zêza                      ║
   ║  Theme: HUD / Stark · Deep Navy (#0A0E1A) + Electric Cyan (#00D9FF)║
-  ║                                                                    ║
-  ║  >>> TROQUE "kaiquezeza" pelo seu @ real do GitHub (use Ctrl+H /   ║
-  ║      Find & Replace para trocar todas as ocorrências de uma vez).  ║
+  ║  Usuario GitHub: Zezoca29                                          ║
   ╚══════════════════════════════════════════════════════════════════╝
 -->
 
@@ -14,7 +12,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E1A,50:0EA5E9,100:00D9FF&height=200&section=header&text=Kaique%20Augusto&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Software%20Engineer%20%C2%B7%20Distributed%20Systems%20%C2%B7%20Cloud%20Architecture&descAlignY=60&descSize=18" />
 
 <!-- ░░ TYPING SVG ░░ -->
-<a href="https://github.com/kaiquezeza">
+<a href="https://github.com/Zezoca29">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=720&lines=Java+%26+Kotlin+%7C+Spring+Boot+Ecosystem;Distributed+Systems+%26+Microservices;Event-Driven+Architecture+with+Apache+Kafka;Cloud-Native+on+AWS+%2B+Kubernetes;Designing+systems+for+millions+of+users." alt="Typing SVG" />
 </a>
 
@@ -24,11 +22,11 @@
 <a href="https://www.linkedin.com/in/kaiquezeza/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://github.com/kaiquezeza">
+<a href="https://github.com/Zezoca29">
   <img src="https://img.shields.io/badge/GitHub-0A0E1A?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub"/>
 </a>
 <img src="https://img.shields.io/badge/São_Paulo,_BR-0A0E1A?style=for-the-badge&logo=googlemaps&logoColor=00D9FF" alt="Location"/>
-<img src="https://komarev.com/ghpvc/?username=kaiquezeza&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Zezoca29&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
@@ -117,14 +115,14 @@ A VS Code extension that generates Java unit tests by combining **static analysi
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kaiquezeza&show_icons=true&count_private=true&hide_border=true&bg_color=0A0E1A&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquezeza&layout=compact&langs_count=8&hide_border=true&bg_color=0A0E1A&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Zezoca29&show_icons=true&count_private=true&hide_border=true&bg_color=0A0E1A&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zezoca29&layout=compact&langs_count=8&hide_border=true&bg_color=0A0E1A&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages" />
 
-<img src="https://streak-stats.demolab.com/?user=kaiquezeza&hide_border=true&background=0A0E1A&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E&stroke=00D9FF&sideNums=C9D1D9&currStreakNum=ffffff&dayLabels=C9D1D9" alt="Streak" />
+<img src="https://streak-stats.demolab.com/?user=Zezoca29&hide_border=true&background=0A0E1A&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E&stroke=00D9FF&sideNums=C9D1D9&currStreakNum=ffffff&dayLabels=C9D1D9" alt="Streak" />
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kaiquezeza&bg_color=0A0E1A&color=00D9FF&line=00D9FF&point=ffffff&area=true&area_color=0EA5E9&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Zezoca29&bg_color=0A0E1A&color=00D9FF&line=00D9FF&point=ffffff&area=true&area_color=0EA5E9&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=kaiquezeza&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=Zezoca29&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
 
 </div>
 
@@ -148,7 +146,7 @@ A VS Code extension that generates Java unit tests by combining **static analysi
      (instructions provided with this file)                          -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kaiquezeza/kaiquezeza/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+<img src="https://raw.githubusercontent.com/Zezoca29/kaiquezeza/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 
 <br/><br/>
 
