@@ -37,77 +37,118 @@
 ```python
 class KaiqueAugusto:
     role         = "Backend Software Engineer"
-    focus        = ["Distributed Systems", "Cloud Architecture", "System Design"]
-    languages    = ["Java (8+)", "Kotlin"]
-    ecosystem    = "Spring Boot · Microservices · Event-Driven"
+    focus        = ["Event-Driven Systems", "Cloud Infrastructure", "Clean Architecture"]
+    languages    = ["Java 21", "Kotlin", "JavaScript"]
+    ecosystem    = "Spring Boot 3 · Kafka · Terraform · React"
     runtime      = ["AWS", "Kubernetes", "Docker", "Linux"]
-    mission      = "Build reliable, high-availability systems used by millions."
-    currently    = "Going deep on Kafka streaming, K8s & backend scalability."
+    architecture = ["Hexagonal", "Microservices", "Event-Driven", "DDD"]
+    projects     = ["Payment Systems", "Real-time Notifications", "IaC Platforms", "Edge AI"]
+    currently    = "Building production-grade systems with modern patterns."
 ```
 
-Backend engineer with a strong Computer Science foundation, focused on building **scalable, high-performance distributed systems**. I design and develop cloud-native backend platforms with **Java & Kotlin** on the **Spring Boot** ecosystem — event-driven services and highly scalable APIs running on **AWS**. Professional experience at **Cielo**, contributing to large-scale backend services and the **Cielo Tap** platform, with strong exposure to Kotlin and modern software architecture.
+Backend engineer building **production-grade distributed systems** with focus on **event-driven architectures** and **clean code principles**. Working with **Java 21 & Spring Boot 3** to develop real-time payment systems, infrastructure automation with **Terraform**, and cloud-native applications on **AWS**. Professional experience at **Cielo**, working on large-scale payment processing platforms.
 
-> Driven by continuous learning and engineering excellence — long-term goal: architecting large-scale distributed systems and high-performance backend platforms.
+Current focus: Real-time event streaming with **Apache Kafka**, **WebSocket** integrations, **Hexagonal Architecture**, and **Infrastructure as Code** with zero-cost cloud deployments.
+
+> 🎯 Building systems that scale — from event-driven microservices to infrastructure automation.
 
 ---
 
 ## `>` Tech Arsenal
 
 #### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-#### Frameworks & APIs
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+#### Backend & APIs
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![REST](https://img.shields.io/badge/REST_APIs-0A0E1A?style=for-the-badge&logo=fastapi&logoColor=00D9FF)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 #### Messaging & Event-Driven
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![AWS SQS](https://img.shields.io/badge/Amazon_SQS-FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white)
+![STOMP](https://img.shields.io/badge/STOMP-0A0E1A?style=for-the-badge&logo=protocol&logoColor=00D9FF)
 
-#### Cloud & DevOps
+#### Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-#### Quality & Practices
+#### Data & Frontend
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+#### DevOps & Quality
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![TDD](https://img.shields.io/badge/TDD-0A0E1A?style=for-the-badge&logo=testinglibrary&logoColor=00D9FF)
-![SOLID](https://img.shields.io/badge/SOLID_&_Clean_Code-0A0E1A?style=for-the-badge&logo=codacy&logoColor=00D9FF)
-![Scrum](https://img.shields.io/badge/Scrum_/_Kanban-0A0E1A?style=for-the-badge&logo=jirasoftware&logoColor=00D9FF)
 
 ---
 
-## `>` Featured Project
-
-<div align="center">
+## `>` Featured Projects
 
 <table>
 <tr>
-<td width="100%">
+<td width="50%">
 
-### ⚡ Zez Code AI — *AI Code Verification Layer*
+### ⚡ [Realtime Payment Notification System](https://github.com/Zezoca29/realtime-payment-notification-system)
 
-The AI writes the code. **I prove it works.**
+Event-driven payment notification system with **real-time WebSocket delivery**. Features retry logic, DLQ, idempotency keys, MDC tracing, and full observability.
 
-A VS Code extension that generates Java unit tests by combining **static analysis** with optional **LLM support (BYOK)** — positioned as the behavioral-correctness and trust layer downstream from AI code generation. Built solo, end to end.
+**Stack:** `Java 21` · `Spring Boot 3` · `Apache Kafka` · `WebSocket/STOMP` · `PostgreSQL` · `React 18`
 
-`Java` · `Static Analysis` · `LLM / BYOK` · `VS Code Extension API` · `CI Verification Gate`
+**Architecture:** Pub/Sub · Event Sourcing · CQRS patterns
+
+</td>
+<td width="50%">
+
+### 🏗️ [Payment API — Hexagonal Architecture](https://github.com/Zezoca29/payment-api-hexagonal)
+
+Production-grade REST API following **Hexagonal Architecture (Ports & Adapters)**. Clean separation of concerns, highly testable, domain-driven design.
+
+**Stack:** `Java 21` · `Spring Boot 3` · `PostgreSQL` · `Docker` · `JUnit 5` · `CI/CD`
+
+**Patterns:** DDD · Dependency Inversion · Interface Adapters
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ☁️ [ZezCloud Zero — IaC Platform](https://github.com/Zezoca29/zezcloud-zero)
+
+Production-grade **Infrastructure as Code** on AWS Free Tier. Fully automated deployment pipeline with Terraform modules, containerized services, and zero monthly cost.
+
+**Stack:** `Terraform` · `AWS` · `Docker Compose` · `Spring Boot` · `GitHub Actions` · `Nginx`
+
+**Cost:** $0/month on AWS Free Tier
+
+</td>
+<td width="50%">
+
+### 🤖 [Edge AI Industrial](https://github.com/Zezoca29/edge-ai-industrial)
+
+Intelligent embedded system for industrial IoT. Real-time ML inference at the edge, cloud synchronization, and predictive maintenance capabilities.
+
+**Stack:** `Java` · `Edge Computing` · `IoT` · `Machine Learning` · `Cloud Architecture`
+
+**Focus:** Real-time processing · Low-latency ML · Industrial applications
 
 </td>
 </tr>
 </table>
 
-</div>
+> 💡 **Architecture Philosophy:** All projects follow production-grade practices — comprehensive testing, CI/CD pipelines, containerization, observability, and scalable design patterns.
 
 ---
 
@@ -128,16 +169,18 @@ A VS Code extension that generates Java unit tests by combining **static analysi
 
 ---
 
-## `>` Currently Deepening
+## `>` Currently Building & Learning
 
 ```text
-[ ████████████░░░ ]  System Design for large-scale systems
-[ ██████████░░░░░ ]  Kafka-based event streaming architectures
-[ ███████████░░░░ ]  Kubernetes & Cloud-Native Infrastructure
-[ █████████░░░░░░ ]  Concurrent & Multithreaded Programming (Java/Kotlin)
-[ ██████████░░░░░ ]  Performance Optimization & Backend Scalability
-[ ████████░░░░░░░ ]  Observability — logging, metrics, monitoring
+[ ████████████████ ]  Event-Driven Architecture (Kafka + WebSocket)
+[ ███████████████░ ]  Infrastructure as Code (Terraform + AWS)
+[ ██████████████░░ ]  Hexagonal Architecture & Domain-Driven Design
+[ ████████████░░░░ ]  Real-time Systems & Payment Processing
+[ ███████████░░░░░ ]  Kubernetes & Cloud-Native Patterns
+[ ██████████░░░░░░ ]  Edge Computing & IoT Integration
 ```
+
+**Active Projects:** Payment notification systems · IaC automation · Edge AI · Distributed event processing
 
 ---
 
